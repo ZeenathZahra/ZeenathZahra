@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**ZeenathZahra/ZeenathZahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi there 👋 </h1>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ZeenathZahra">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ZeenathZahra&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+<hr>
+</p>
+</p>
+
+* 📖 Pursuing Bachelors In Software Engineering @ [The Open University Of SriLanka](https://ou.ac.lk/). 
+
+* 🎓 Developing Mobile Applications with Dart And Flutter. 
+
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently working on Developing an AI Agent For Cancer Diagnosis.
