@@ -2,6 +2,8 @@
 <h1> Hi there 👋 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ZeenathZahra&label=Profile%20views&color=0e75b6&style=flat" alt="Zee" /> </p>
 
+<p align="center">
+    
 <a href="https://zeenathzahra.github.io/">
     <img src="https://img.shields.io/badge/Website-zeenathzahra.github.io-red?style=flat-square">
 </a>  
