@@ -10,7 +10,7 @@
 <!-- <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>   -->
-<a href="linkedin.com/in/zeenath-zahra">
+<a href="https://www.linkedin.com/in/zeenath-zahra/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:zeenathzahra17@gmail.com">
