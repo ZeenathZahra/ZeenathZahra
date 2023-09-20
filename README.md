@@ -34,9 +34,7 @@
 * 💻 Currently working on Developing an AI Agent For Cancer Diagnosis.
 
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeenathzahra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zeenathzahra&theme=dark&hide_border=false)<br/>
+
 
 
 
