@@ -27,7 +27,7 @@
 
 * 📖 Pursuing Bachelors In Software Engineering @ [The Open University Of SriLanka](https://ou.ac.lk/). 
 
-* 🎓 Developing Mobile Applications with Dart And Flutter. 
+* 🎓 Developing Mobile Applications with React Native. 
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
