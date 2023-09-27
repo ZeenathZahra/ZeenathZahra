@@ -5,7 +5,7 @@
 <p align="center">
     
 <a href="https://zeenathzahra.github.io/">
-    <img src="https://img.shields.io/badge/Website-zeenathzahra.github.io-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
 
 <a href="https://www.linkedin.com/in/zeenath-zahra/">
@@ -34,15 +34,10 @@
 * 💻 Currently working on Developing an AI Agent For Cancer Diagnosis.
 <hr>
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ 
+
+
+  [![SkillIcons](https://skillicons.dev/icons?i=ts,html,css,javascript,androidstudio,dart,flutter,vscode,visualstudio,java,c,py,markdown,vercel,react,nodejs,firebase,postman,git,github,githubactions,mysql,tailwind,django,vue,figma,ruby,php,dart,flutter)](https://skillicons.dev)<br/>
 
 </div>
 <hr>
