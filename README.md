@@ -27,11 +27,13 @@
 
 * 📖 Pursuing Bachelors In Software Engineering @ [The Open University Of SriLanka](https://ou.ac.lk/). 
 
-* 🎓 Developing Mobile Applications with React Native. 
+* 🎓 Developing Mobile Applications with React Native.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Developing an AI Agent For Cancer Diagnosis.
+* 💻 Currently working on Developing an AI Agent For Cancer Diagnosis and
+
+* 📝 Developing a Notes Management System [Aide Memoire](https://digital-garden-site.vercel.app/)
 <hr>
 <div align="center">
  
