@@ -1,6 +1,4 @@
-<h1> Hi there 👋 </h1>
-
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<h1 align="center"> Hi there 👋 </h1>
 
 
 <p align="center">
@@ -15,6 +13,9 @@
 <a href="mailto:zeenathzahra17@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
 
 
 <p align="center">
@@ -34,7 +35,7 @@
 
 * 💻 Currently working on Developing an AI Agent For Cancer Diagnosis and
 
-* 📝 Developing a Notes Management System [Aide Memoire](https://digital-garden-site.vercel.app/)
+* 📝 Contributing to a Notes Management System [Aide Memoire](https://digital-garden-site.vercel.app/)
 <hr>
 <div align="center">
  
