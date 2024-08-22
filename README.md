@@ -34,7 +34,7 @@
  
 
 
-  [![SkillIcons](https://skillicons.dev/icons?i=ts,html,css,javascript,androidstudio,dart,flutter,vscode,visualstudio,java,c,py,markdown,vercel,react,nodejs,firebase,postman,git,github,githubactions,mysql,tailwind,django,vue,figma,ruby,php,dart,flutter)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=ts,next,html,css,javascript,androidstudio,dart,flutter,vscode,visualstudio,java,c,py,vercel,react,nodejs,firebase,postman,git,github,githubactions,mysql,tailwind,django,vue,figma,ruby,php,dart,flutter)](https://skillicons.dev)<br/>
 
 </div>
 <hr>
